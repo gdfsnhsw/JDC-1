@@ -11,6 +11,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: down
       run: |
+        rm -rf ./*
         git clone https://github.com/cdle/jd_study.git  ./jd_study
         cp -rf ./jd_study/jdc/* ./
         rm -rf ./jd_study
