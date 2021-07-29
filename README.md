@@ -1,7 +1,7 @@
 # 利用github action编译 [@cdle](https://github.com/cdle/jd_study.git) 大佬的JDC
--根据自己的系统选择对应的JDC
--pin1&pin2为管理账号，对应的京东账号扫码可以打开管理界面。
--JDC默认端口为8080
+- 根据自己的系统选择对应的JDC
+- pin1&pin2为管理账号，对应的京东账号扫码可以打开管理界面
+- JDC默认端口为8080
 # V4
 ```text
 chmod 777 JDC
