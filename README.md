@@ -1,5 +1,5 @@
 ## 利用github action编译 [@cdle](https://github.com/cdle/jd_study.git) 大佬的JDC
-- clone本库到JD目录
+- 克隆本库到JD目录，或者自行拷贝需要的文件
 - 选择与 `系统匹配` 的JDC
 - 配置好 `conf` 文件
 - !若在容器内配置运行，请先映射端口
